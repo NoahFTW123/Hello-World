@@ -19,7 +19,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
 |04/25/2024|   10:09  |   IM   | Made Hello World in Erlang                 |      :5     |
-|          |          |        |                                            |             |
+|04/27/2024|   06:19  |   IM   |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
